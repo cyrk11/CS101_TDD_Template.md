@@ -30,6 +30,7 @@
 
 ## 3. The Core Logic (Pseudocode)
 
+```text
 START PROGRAM
   INPUT cleaningDay, cleaningStartTime, cleaningEndTime
   INPUT currentDay, currentTime, isASPSuspended
@@ -60,6 +61,7 @@ START PROGRAM
 
   OUTPUT "You're all set! Parking check complete."
 END PROGRAM
+```
 
 ---
 
